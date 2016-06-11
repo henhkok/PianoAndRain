@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Piano and Rain</string>
+    <string name="action_settings">Feedback</string>
+    <string name="about">about</string>
+    <string name="startButton">GO</string>
+    <string name="time_30">00:30</string>
+    <string name="start">Start</string>
+    <string name="TimerOn">TimerOn</string>
+    <string name="Connecting">Please turn on your Internet connection!</string>
+    <string name="Exit">Do you really want to quit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="setTimer">Set timer for</string>
+    <string name="TimeOver">Timer up!</string>
+</resources>
